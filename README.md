@@ -18,7 +18,7 @@ In this hands-on tutorial, we'll walk you through the process of creating a smal
 <h2>Flowchart:</h2>
 
 <br/>
-<img src="https://i.imgur.com/HjC9Yxr.png?1" height="80%" width="80%"/>
+<img src="https://i.imgur.com/6XRx72A.png" height="80%" width="80%"/>
 <br />
 <br />
 <h2>walk-through:</h2>
